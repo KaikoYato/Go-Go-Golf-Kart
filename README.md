@@ -23,6 +23,6 @@ Race through vibrant tracks, take split routes, and compete for the best time.
 - Blender (3D assets)
 
 ## Credits
-- **Njabulo Zikhakhli** – Programming, UI, 3D Art, Systems Design (https://www.linkedin.com/in/njabulo-zikhali-b84b26321)
-- **Caitlin Jacobs** – Programming, UI, 3D Art, Systems Design (https://www.linkedin.com/in/caitlin-andrea-jacobs-39bb122b1)
+- **[Njabulo Zikhakhli](https://www.linkedin.com/in/njabulo-zikhali-b84b26321)** – Programming, UI, 3D Art, Systems Design 
+- **[Caitlin Jacobs](https://www.linkedin.com/in/caitlin-andrea-jacobs-39bb122b1)** – Programming, UI, 3D Art, Systems Design 
 - Additional assets from Unity Asset Store (licensed)
