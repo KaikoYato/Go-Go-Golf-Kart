@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a5f60f9ad826f649a36789dd20108a6, type: 3}
+  m_Name: AD dialigue Sequence
+  m_EditorClassIdentifier: 
+  Script:
+  - {fileID: 11400000, guid: c71470617dc49f44d9cb41674f9d7b23, type: 2}
+  - {fileID: 11400000, guid: fd1d9dfa4f0ded74cbd7730c06728825, type: 2}
+  - {fileID: 11400000, guid: 01e4c19d30f9b4c43a6ed05f31d9d215, type: 2}
+  - {fileID: 11400000, guid: c5a3b3822ca74e646a08cf06b6c62784, type: 2}
+  - {fileID: 11400000, guid: d1b7471634002524bb140d85e7b680ea, type: 2}

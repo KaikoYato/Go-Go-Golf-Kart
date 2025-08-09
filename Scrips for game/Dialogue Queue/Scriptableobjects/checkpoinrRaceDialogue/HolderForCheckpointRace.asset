@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a5f60f9ad826f649a36789dd20108a6, type: 3}
+  m_Name: HolderForCheckpointRace
+  m_EditorClassIdentifier: 
+  Script:
+  - {fileID: 11400000, guid: 69659fc69baffda4ca0e1c18711bc71c, type: 2}
+  - {fileID: 11400000, guid: 64ad42145b6e4914b816f16f943771e2, type: 2}
+  - {fileID: 11400000, guid: 48c9ccadc9b0f0f4f9a1328b96680e45, type: 2}
+  - {fileID: 11400000, guid: d96126f05771b0140b632e121c4b43e8, type: 2}
+  - {fileID: 11400000, guid: 6c2b2b9689af40e4191819280e529104, type: 2}
+  - {fileID: 11400000, guid: 7fdd8d9ccb7b1874cb5425876f87e7d6, type: 2}
