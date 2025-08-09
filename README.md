@@ -11,7 +11,7 @@ Race through vibrant tracks, take split routes, and compete for the best time.
 - Smooth, responsive driving mechanics.
 
 ## How to Play
-- **WASD / Arrow Keys** – Steer and accelerate.
+- **WASD** – Steer and accelerate.
 - Complete the race within the time limit or beat AI racers to win.
 
 ## Download / Play Demo
